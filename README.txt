@@ -12,5 +12,7 @@ During the writing project I was working with:
     - Webpack;
     - Mui css framework.
 
+Screenshots of authorized user:
 
+https://github.com/V-tyna/Question-application/issues/1#issue-1042010301
 
