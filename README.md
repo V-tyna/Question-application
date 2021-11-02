@@ -6,6 +6,8 @@ Data are saving and rendering through the DataBase.
 
 An authorized user can see a list of questions.
 
+Application has an adaptive layout.
+
 ### During the writing project I was working with:
     - DataBase(Firebase);
     - Node.js;
