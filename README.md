@@ -9,6 +9,9 @@ An authorized user can see a list of questions.
 Application has an adaptive layout.
 
 ### During the writing project I was working with:
+    - HTML;
+    - CSS;
+    - JavaScript;
     - DataBase(Firebase);
     - Node.js;
     - Webpack;
